@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 28306781daf77354c9f02e7045c8149f
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: 7df935524c764ce49b7e59452f78519d
+  - enabled: 1
+    path: Assets/Scenes/HowToPlay.unity
+    guid: a32e46692331079499ef05ad03e91c78
+  - enabled: 1
+    path: Assets/Scenes/VictoryLevel1.unity
+    guid: 700e58596b7666548aedddec092fd3e2
+  - enabled: 1
+    path: Assets/Scenes/DefeatLevel1.unity
+    guid: accfe875bcaa03345bf158bd0454dbc6
+  - enabled: 1
+    path: Assets/Scenes/VictoryLevel2.unity
+    guid: 1af715a68e62c1b4d918dcdb21018be7
+  - enabled: 1
+    path: Assets/Scenes/DefeatLevel2.unity
+    guid: 5cf961a7e0668604eb9f38d8f7de5c53
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: 902cf2ebe8aa4ec49b28245cdf77fc4b
+  - enabled: 1
+    path: Assets/Scenes/VictoryLevel3.unity
+    guid: 8b4b530a294896342af7cf412bd73c9c
+  - enabled: 1
+    path: Assets/Scenes/DefeatLevel3.unity
+    guid: 910cf507337931b4d8ce704913b54e20
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
